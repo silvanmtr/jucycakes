@@ -1,0 +1,6 @@
+---
+applications:
+- name: jucycakes
+  random-route: true
+  memory: 1G
+  path: target/jucycakes-1.0.0-SNAPSHOT.jar
