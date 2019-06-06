@@ -1,0 +1,1 @@
+ALTER TABLE bolo ADD COLUMN preco DOUBLE not null;

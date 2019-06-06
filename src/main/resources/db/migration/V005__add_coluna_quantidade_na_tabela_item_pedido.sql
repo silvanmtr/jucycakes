@@ -1,0 +1,1 @@
+ALTER TABLE item_pedido  ADD COLUMN quantidade FLOAT(10,2) NOT NULL DEFAULT '0.00'
