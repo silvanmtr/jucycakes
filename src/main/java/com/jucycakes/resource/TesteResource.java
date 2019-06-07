@@ -11,7 +11,7 @@ import com.jucycakes.model.Bolo;
 import com.jucycakes.repository.Bolos;
 
 @RestController
-@RequestMapping("/bolos")
+@RequestMapping("/testeci")
 public class TesteResource {
 	
 	@Autowired
